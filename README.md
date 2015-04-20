@@ -9,6 +9,7 @@ The [link](http://python.austincodingacademy.com/) needs credentials.
 
 ***********
 * I keep telling myself, 
+
 > Remember! The aim is to become a __SCIENTIFIC COMPUTING PROFESSIONAL__, or a __DATA SCIENTIST__!
 
 ***********
