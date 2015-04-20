@@ -7,14 +7,15 @@ The series is Intro to Python.
 
 The [link](http://python.austincodingacademy.com/) needs credentials.
 
-_IT IS POSSIBLE TO BECOME A DEVELOPER WITH THIS TUTORIAL._
 ***********
 * I keep telling myself, 
 > Remember! The aim is to become a __SCIENTIFIC COMPUTING PROFESSIONAL__, or a __DATA SCIENTIST__!
-***********
 
-	HappyPythoning(self):
-		'''
-		Self is essentially me! ;-)
-		And the "methods" follow!
-		'''
+***********
+```
+HappyPythoning(self):
+	'''
+	Self is essentially me! ;-)
+	And the "methods" follow!
+	'''
+```
