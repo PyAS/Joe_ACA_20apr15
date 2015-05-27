@@ -9,7 +9,7 @@ And hope at the end of the analysis, to arrive at a sensible answer as if life i
 
 But there is a danger with this aerial view. The farther I go from my target, more will be the chances that my vision results in illusions. For example, a lot of us see a deer on moon, a lot of them see a rabbit, or an old woman, etc. Illusions. The closer I look at it, there are still dangers of missing clarity and rising blur. Just for the fun of it, I am going to try to involve a lot of math and physics into this scribble.
 
-![alt text](https://catagavirialara.files.wordpress.com/2011/02/3d-coord.png "Life in 3D")
+![alt text](3d-coord.png "Life in 3D")
 
 Despite my age and my educational degrees, I still have problems in efficiently using spherical and cylindrical coordinate systems. I stick to the well known 3 dimensional _Descartes_.
 
